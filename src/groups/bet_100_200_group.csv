@@ -1,0 +1,67 @@
+ID,Location,Output,Model,COP,FlowT,OutsideT,Days,Heat Demand,Floor Area,Heat Demand/Floor Area
+79,Reading,7 kW,Vaillant Arotherm+,3.77,32.7,7.5,364,12000,120,100.00
+111,Reading UK,9 kW,Daikin Altherma 3 EDLA09D3V3,3.29,34.3,8.1,250,15000,150,100.00
+122,Lightwater,6 kW,Mitsubishi Ecodan,3.44,38.2,8.4,252,10000,100,100.00
+290,"Ashford, Kent",8 kW,Ideal HP290,2.52,45.3,6.1,128,10000,100,100.00
+324,Northamptonshire,9 kW,Daikin Altherma 3,1.72,39.4,14.7,33,12082,120,100.68
+292,"Dorking, Surrey",24 kW,2 x Vaillant Arotherm+,4.97,30.0,13.2,65,40783,400,101.96
+6,Manchester,5 kW,Mitsubishi Ecodan,3.70,37.5,7.1,364,9500,92,103.26
+2,"Llanberis, Gwynedd",5 kW,Mitsubishi Ecodan,4.09,33.2,8.2,352,8000,77,103.90
+1,"Selby, Yorkshire",11.2 kW,Mitsubishi Ecodan,3.72,36.1,7.4,360,14000,134,104.48
+280,"Taunton, Somerset",7 kW,Vaillant Arotherm+,4.56,37.2,20.2,74,16107,150,107.38
+248,"Fleet, Hampshire",5 kW,Vaillant Arotherm+,4.41,32.7,14.2,131,14000,130,107.69
+210,"Farnham, Surrey",7 kW,Vaillant Arotherm+,4.16,34.9,2.7,187,14248,132,107.94
+125,"Cuffley, Hertfordshire",5 kW,Vaillant Arotherm+,3.32,35.4,9.4,252,16336,150,108.91
+61,"Sleaford, Lincolnshire",12 kW,NIBE F2040,3.40,34.9,7.1,350,23327,214,109.00
+44,"Farnborough, Hampshire",8 kW,Daikin Altherma 3,3.55,34.5,8.5,357,12033,110,109.39
+170,Devon,11.2 kW,Mitsubishi Ecodan,3.61,41.7,7.8,361,15878,144,110.26
+32,Newbury,14 kW,Mitsubishi Ecodan,3.29,37.7,7.4,364,16574,150,110.49
+50,"Deiniolen, Gwynedd",11.2 kW,Mitsubishi Ecodan,3.60,31.3,7.7,348,11000,99,111.11
+7,Weymouth,14 kW,Mitsubishi Ecodan,3.90,39.5,9.9,365,27328,244,112.00
+65,Bristol,9 kW,Nibe F2050,4.66,31.7,8.9,347,19209,170,112.99
+344,Suffolk,7 kW,Vaillant Arotherm+,4.65,39.4,20.0,4,19089,168,113.62
+295,Marston Moretaine,9 kW,Daikin Altherma 3,2.11,39.8,15.6,60,10000,88,113.64
+287,Lincoln,11 kW,Clivet,3.64,36.5,7.3,244,19948,175,113.99
+213,Solihull,8 kW,Viessmann Vitocal 151A,4.00,28.7,9.6,197,17953,157,114.35
+126,East Midlands,11 kW,Daikin Altherma 3,3.96,30.8,7.8,247,26216,229,114.48
+144,Sheffield,5 kW,Vaillant Arotherm+,4.09,32.0,7.1,227,12712,110,115.56
+154,"High Wycombe, Buckinghamshire",4 kW,Worcester Bosch Compress 5800i,4.04,35.1,9.8,97,7192,62,116.00
+176,Crystal Palace,18 kW,2 x NIBE 2050 Cascade,4.56,27.5,12.1,200,35000,300,116.67
+241,Glasgow,12 kW,Panasonic Aquarea T-Cap,3.99,38.0,12.9,139,32754,280,116.98
+216,"Fetcham, Surrey",6 kW,Daikin Altherma 3 LT Split,3.61,36.2,11.8,176,11690,99,118.08
+300,Croxley Green,8 kW,Viessmann Vitocal 150A,5.44,29.7,12.7,47,19380,164,118.17
+330,Horley,5 kW,Vaillant Arotherm+,4.16,45.2,18.7,5,16069,135,119.03
+106,"Alcester, Warwickshire",16 kW,Samsung Gen 6,2.92,35.5,8.5,364,25000,210,119.05
+335,"Burgess Hill, West Sussex",5 kW,Vaillant Arotherm+,4.52,36.7,17.8,16,11013,92,119.71
+83,Croydon,16 kW,LG Therma V,3.52,35.7,9.1,365,28861,241,119.76
+251,"Ottawa, Canada",7 kW,Gree Flexx,2.28,22.1,16.6,120,20000,167,119.76
+108,"Ely, Cambridgeshire",12 kW,Samsung Gen 6,3.48,33.4,7.6,270,25517,210,121.51
+342,Ramsey,7 kW,Vaillant Arotherm+,3.36,43.8,16.0,5,16227,133,122.01
+66,"Broxburn, West Lothian",12 kW,Nibe S1155 PVT,4.99,33.5,6.9,348,22677,185,122.58
+88,"Lichfield, UK",12.5 kW,Stiebel Eltron WPL25-AS,3.78,38.0,7.6,289,25742,202,127.44
+56,"Huddersfield, West Yorkshire",8.5 kW,Mitsubishi Ecodan,3.14,39.5,6.4,364,21422,166,129.05
+237,Huddersfield,5 kW,Ideal Logic Air,4.28,32.5,9.9,131,11300,85,132.94
+261,Guildford,7 kW,Vaillant Arotherm+,3.82,39.7,16.8,94,14596,109,133.91
+15,"Newtown, Wales",5 kW,Panasonic 'J' Aquarea,4.21,32.9,0.0,183,26000,190,136.84
+238,Guildford,5 kW,Vaillant Arotherm+,3.94,36.2,11.7,148,11000,80,137.50
+239,London,7 kW,Vaillant Arotherm+,4.63,31.5,10.0,183,29029,210,138.23
+249,Surrey,8.3 kW,Nibe F2050,2.04,40.2,12.7,126,11100,80,138.75
+68,Sheffield,10 kW,Viessmann Vitocal 150A,4.97,30.1,5.5,347,18837,133,141.63
+151,Warwick ,5 kW,Vaillant Arotherm+ ,4.56,30.9,7.6,218,13700,96,142.71
+343,"Chorley, Lancashire",5 kW,Vaillant Arotherm+,4.57,33.2,14.7,89,13056,90,145.07
+132,North Yorkshire,11.2 kW,Mitsubishi Ecodan,3.93,36.4,8.4,235,26733,183,146.08
+197,Caversham,14 kW,Samsung HTQ ,3.50,27.3,10.8,346,22041,150,146.94
+232,Potters Bar,6 kW,Viessmann Vitocal 150A,3.83,32.5,10.2,146,14863,100,148.63
+259,Northampton,9 kW,Daikin Altherma 3,2.43,40.7,18.0,96,18000,120,150.00
+297,Loughborough,12 kW,Vaillant Arotherm+,3.18,48.1,16.4,57,25248,166,152.10
+286,Leicester,5 kW,Vaillant Arotherm+,4.42,34.1,0.6,325,15264,100,152.64
+118,"Medstead, Hampshire",16 kW,Midea ,3.44,35.6,7.3,255,21906,143,153.19
+256,Aylesbury ,16 kW,Viessmann Vitocal 150A,4.82,30.0,11.9,134,29556,192,153.94
+298,Uxbridge,6 kW,NIBE 2050,3.22,40.6,17.2,57,12500,80,156.25
+8,"Fife, Scotland",7 kW,Vaillant Arotherm+,4.07,33.1,5.1,364,16057,100,160.57
+240,Wrexham,7 kW,Vaillant Arotherm+,2.57,48.4,12.6,113,16479,99,166.45
+57,"Dinorwic, Gwynedd",13 kW,Grant Aerona3,4.03,34.7,8.1,319,28000,168,166.67
+262,"Sawtry, Cambridgeshire",7 kW,Vaillant Arotherm+,3.63,27.4,11.1,116,19572,116,168.72
+209,Aberdeenshire,10 kW,Vaillant Arotherm+,4.41,33.7,7.9,182,26697,153,174.49
+268,Liphook,5 kW,Vaillant Arotherm+,4.68,31.5,12.6,6,9000,50,180.00
+173,NE Derbyshire,12 kW,Samsung Gen 6,3.23,36.0,7.0,182,21087,110,191.70

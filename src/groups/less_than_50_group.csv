@@ -1,0 +1,25 @@
+ID,Location,Output,Model,COP,FlowT,OutsideT,Days,Heat Demand,Floor Area,Heat Demand/Floor Area
+282,Newcastle,5 kW,Vaillant Arotherm+,4.18,30.1,9.5,164,12,190,0.06
+225,Wirral ,5 kW,Ideal Logic Air,4.22,33.0,1.2,157,9,120,0.07
+328,Wirral ,13 kW,Viessmann Vitocal 150A,2.28,50.7,16.4,54,25,202,0.12
+319,"Clunbury, Shropshire",16 kW,Viessmann Vitocal 150A,5.12,33.0,14.1,38,24,180,0.13
+82,Varese - Italy,8.5 kW,Mitsubishi Ecodan,2.74,32.0,6.1,363,59,120,0.49
+167,"Cadross, Dumbarton",10 kW,Nibe S2050 ,4.01,37.1,7.3,269,287,123,2.33
+228,Birmingham,4 kW,Daikin Altherma 3,2.30,38.8,8.5,151,1248,115,10.85
+11,Derby,8 kW,NIBE F1145,3.48,33.3,5.3,362,4542,315,14.42
+143,"Devon, Mid",5 kW,Vaillant Arotherm+,4.13,25.3,8.0,234,4500,225,20.00
+215,"Faaborg, Denmark ",12 kW,Sprsun EVI,3.71,34.1,7.4,179,4000,200,20.00
+64,Newport,7 kW,Vaillant Arotherm+,3.80,35.0,6.2,343,5000,230,21.74
+337,"Elgin, Scotland ",6 kW,Maxa i32V5 ,3.63,34.1,12.0,4,6000,236,25.42
+26,Stratford-upon-Avon,7 kW,Vaillant Arotherm+,3.96,34.3,7.7,361,7300,251,29.08
+338,"Buntingford, Hertfordshire",4 kW,Daikin Altherma 3,4.10,41.9,18.4,12,2916,100,29.16
+53,Stroud,5 kW,Vaillant Arotherm+,4.55,28.0,6.7,335,6354,215,29.55
+87, (Laubeck) East riding of Yorkshire,9 kW,Daikin Altherma 3,3.08,33.6,7.5,342,4625,150,30.83
+131,Swindon,9 kW,Daikin Altherma 3,2.56,35.3,8.0,52,5403,170,31.78
+283,Pembrokeshire ,3.5 kW,Vaillant Arotherm+,3.62,44.8,15.8,68,4900,136,36.03
+212,"Edwinstowe, Nottinghamshire",6 kW,Mitsubishi Ecodan,3.49,38.2,10.7,167,4368,117,37.33
+16,Gloucestershire,5 kW,Mitsubishi Ecodan,4.25,34.6,6.7,353,7200,180,40.00
+113,Bournemouth,8 kW, Daikin Altherma 3,3.95,34.7,9.7,261,5000,120,41.67
+55,"Brynrefail, Gwynedd",12 kW,NIBE F2040,2.90,21.5,11.2,195,6000,141,42.55
+123,Brighton & Hove,5 kW,Vaillant Arotherm+,3.34,38.5,7.6,240,3425,78,43.91
+314,"Derrygonnelly, NI",8 kW,Viessmann Vitocal 150A,3.33,41.7,14.2,41,13577,300,45.26

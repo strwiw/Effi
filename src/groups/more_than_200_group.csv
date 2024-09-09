@@ -1,0 +1,5 @@
+ID,Location,Output,Model,COP,FlowT,OutsideT,Days,Heat Demand,Floor Area,Heat Demand/Floor Area
+31,Swansea,11.2 kW,Mitsubishi Ecodan,3.25,36.4,9.0,336,30000,144,208.33
+37,Kidderminster,7 kW,Acond PRO-N,3.96,34.0,8.1,352,16094,73,220.47
+254,Angus,7 kW,Vaillant Arotherm+,4.55,28.7,12.6,115,20024,84,238.38
+14,"Malton, North Yorkshire",14 kW,Mitsubishi Ecodan,3.11,37.8,10.5,217,41699,150,277.99
